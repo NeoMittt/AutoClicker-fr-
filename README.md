@@ -21,9 +21,6 @@ AutoClicker is a simple and user-friendly tool that automates left and right mou
 
 2. Run the application and adjust the settings according to your needs.
 
-## 📥 Download
-
-You can download the latest version [![Download .exe file](https://img.shields.io/badge/Download-EXE-brightgreen)](https://github.com/neomitt/AutoClicker/releases/download/exe_file/AutoClicker.exe)
 
 ## 💻 Requirements
 
