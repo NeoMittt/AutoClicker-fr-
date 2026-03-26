@@ -1,0 +1,14 @@
+C:\Users\koval\source\repos\autoclicker\bin\Debug\autoclicker.exe.config
+C:\Users\koval\source\repos\autoclicker\bin\Debug\autoclicker.exe
+C:\Users\koval\source\repos\autoclicker\bin\Debug\autoclicker.pdb
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclicker.csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclicker.Form1.resources
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclicker.Properties.Resources.resources
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclicker.csproj.GenerateResource.cache
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclicker.exe
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclicker.pdb
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclicker.BindForm.resources
+C:\Users\koval\source\repos\autoclicker\bin\Debug\WindowsInput.dll
+C:\Users\koval\source\repos\autoclicker\bin\Debug\WindowsInput.xml
+C:\Users\koval\source\repos\autoclicker\obj\Debug\autoclic.482449BB.Up2Date
